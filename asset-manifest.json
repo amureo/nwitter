@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/amureo/nwitter/static/js/main.6e204e9f.js",
-    "index.html": "/amureo/nwitter/index.html",
-    "main.6e204e9f.js.map": "/amureo/nwitter/static/js/main.6e204e9f.js.map"
+    "main.js": "//nwitter/static/js/main.1135c641.js",
+    "index.html": "//nwitter/index.html",
+    "main.1135c641.js.map": "//nwitter/static/js/main.1135c641.js.map"
   },
   "entrypoints": [
-    "static/js/main.6e204e9f.js"
+    "static/js/main.1135c641.js"
   ]
 }
